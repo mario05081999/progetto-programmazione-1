@@ -1,0 +1,6 @@
+Si vuole sviluppare un algoritmo per la generazione a caso di nominativi di persone. Una function a ogni chiamata visualizza un nominativo del tipo:
+
+ROSSI ALDO nato a NAPOLI il 20 GENNAIO 1983. Si osservi che un nominativo è costituito da un campo Cognome, un campo nome, un campo Luogo di nascita un campo Giorno di nascita, un campo Mese di nascita e un campo Anno di nascita. In particolare, un cognome deve essere scelto (a caso) in un insieme (da prefissare, di 30 cognomi); un nome deve essere scelto (a caso) in un insieme (da prefissare, di 40 nomi); un Luogo di nascita deve essere scelto (a caso) in un insieme (da prefissare, di 15 luoghi di nascita); e così via fino all’anno che deve essere un intero da scegliere (sempre a caso) nell’insieme che va da 1930 a 2004. Chiamare la function 50 volte e visualizzare i 50 nominativi casuali. Successivamente permettere all’utente di scegliere tra le seguenti opzioni:
+
+    Ordinare in ordine alfabetico i nominativi
+    Visualizzare tutti i nominativi nati nello stesso giorno fornito dall’utente

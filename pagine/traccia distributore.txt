@@ -1,0 +1,12 @@
+Si vuole simulare la gestione di un distributore automatico di carburante. Si suppone di avere 3 tipi di carburante identificati da un nome, da un codice identificativo, dal numero di litri presenti nella scorta e da un prezzo per litro. 
+
+Permettere all’utente di:
+
+    Inserire dei soldi (5,10, 20, 50 euro)
+    Scegliere il tipo carburante
+        Controllare se è possibile soddisfare la richiesta
+        Nel caso è possibile soddisfare la richiesta rifornire di carburante (aggiornando la scorta)
+    Periodicamente controllare i prodotti sotto scorta (minore di 10 litri)
+    Dato un tipo di carburante visualizzare il giorno in cui si è avuto la massima vendita.
+
+ Provvedere all’implementazione dell’algoritmo per la simulazione del distributore di carburante.  Effettuare almeno un test per ognuna delle opzioni richieste dall’utente.
